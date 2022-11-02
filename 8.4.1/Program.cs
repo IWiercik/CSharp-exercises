@@ -31,7 +31,7 @@ namespace Exercise
             }
             Console.WriteLine("Array view:");
             showingArrayContent(numbers);
-            showingArrayContent(showingEvenNumbers(numbers));
+            showingListContent(showingEvenNumbers(numbers));
 
         }
         static void showingArrayContent(float[] table)
@@ -48,12 +48,26 @@ namespace Exercise
             txt += "]";
             Console.WriteLine(txt);
         }
-        static float[] showingEvenNumbers(float[] tab)
+        static void showingListContent(List<float> table)
         {
-            float[] evenNumbersArray = new float[tab.Length];
-            for (int i = 0; i < evenNumbersArray.Length; i++)
+            string txt = "[";
+            for (int i = 0; i < table.Count; i++)
             {
-                if (tab[i] % 2 == 0) evenNumbersArray[i] = tab[i];
+                txt += table[i];
+                if (i < table.Count - 1)
+                {
+                    txt += " | ";
+                }
+            }
+            txt += "]";
+            Console.WriteLine(txt);
+        }
+        static List<float> showingEvenNumbers(float[] tab)
+        {
+            List<float> evenNumbersArray = new List<float>();
+            for (int i = 0; i < tab.Length; i++)
+            {
+                if (tab[i] % 2 == 0) evenNumbersArray.Add(tab[i]);
             }
             return evenNumbersArray;
         }
