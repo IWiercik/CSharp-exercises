@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Github\\C#-exercises\\8.2.1\\8.2.1.csproj": {}
+    "D:\\Github\\C#-exercises\\8.2.7\\8.2.7.csproj": {}
   },
   "projects": {
-    "D:\\Github\\C#-exercises\\8.2.1\\8.2.1.csproj": {
+    "D:\\Github\\C#-exercises\\8.2.7\\8.2.7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github\\C#-exercises\\8.2.1\\8.2.1.csproj",
-        "projectName": "8.2.1",
-        "projectPath": "D:\\Github\\C#-exercises\\8.2.1\\8.2.1.csproj",
+        "projectUniqueName": "D:\\Github\\C#-exercises\\8.2.7\\8.2.7.csproj",
+        "projectName": "8.2.7",
+        "projectPath": "D:\\Github\\C#-exercises\\8.2.7\\8.2.7.csproj",
         "packagesPath": "C:\\Users\\Przemysław\\.nuget\\packages\\",
-        "outputPath": "D:\\Github\\C#-exercises\\8.2.1\\obj\\",
+        "outputPath": "D:\\Github\\C#-exercises\\8.2.7\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "F:\\Visual studio\\Tools\\NuGetPackages"
