@@ -1,0 +1,15 @@
+D:\Programowanie Front End\GitV2\CSharp-exercises\8.4.2\bin\Debug\net6.0\8.4.2.exe
+D:\Programowanie Front End\GitV2\CSharp-exercises\8.4.2\bin\Debug\net6.0\8.4.2.deps.json
+D:\Programowanie Front End\GitV2\CSharp-exercises\8.4.2\bin\Debug\net6.0\8.4.2.runtimeconfig.json
+D:\Programowanie Front End\GitV2\CSharp-exercises\8.4.2\bin\Debug\net6.0\8.4.2.dll
+D:\Programowanie Front End\GitV2\CSharp-exercises\8.4.2\bin\Debug\net6.0\8.4.2.pdb
+D:\Programowanie Front End\GitV2\CSharp-exercises\8.4.2\obj\Debug\net6.0\8.4.2.csproj.AssemblyReference.cache
+D:\Programowanie Front End\GitV2\CSharp-exercises\8.4.2\obj\Debug\net6.0\8.4.2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programowanie Front End\GitV2\CSharp-exercises\8.4.2\obj\Debug\net6.0\8.4.2.AssemblyInfoInputs.cache
+D:\Programowanie Front End\GitV2\CSharp-exercises\8.4.2\obj\Debug\net6.0\8.4.2.AssemblyInfo.cs
+D:\Programowanie Front End\GitV2\CSharp-exercises\8.4.2\obj\Debug\net6.0\8.4.2.csproj.CoreCompileInputs.cache
+D:\Programowanie Front End\GitV2\CSharp-exercises\8.4.2\obj\Debug\net6.0\8.4.2.dll
+D:\Programowanie Front End\GitV2\CSharp-exercises\8.4.2\obj\Debug\net6.0\refint\8.4.2.dll
+D:\Programowanie Front End\GitV2\CSharp-exercises\8.4.2\obj\Debug\net6.0\8.4.2.pdb
+D:\Programowanie Front End\GitV2\CSharp-exercises\8.4.2\obj\Debug\net6.0\8.4.2.genruntimeconfig.cache
+D:\Programowanie Front End\GitV2\CSharp-exercises\8.4.2\obj\Debug\net6.0\ref\8.4.2.dll
