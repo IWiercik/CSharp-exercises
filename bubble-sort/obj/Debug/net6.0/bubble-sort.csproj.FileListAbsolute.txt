@@ -1,0 +1,15 @@
+D:\Programowanie Front End\GitV2\CSharp-exercises\bubble-sort\obj\Debug\net6.0\bubble-sort.csproj.AssemblyReference.cache
+D:\Programowanie Front End\GitV2\CSharp-exercises\bubble-sort\obj\Debug\net6.0\bubble-sort.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programowanie Front End\GitV2\CSharp-exercises\bubble-sort\obj\Debug\net6.0\bubble-sort.AssemblyInfoInputs.cache
+D:\Programowanie Front End\GitV2\CSharp-exercises\bubble-sort\obj\Debug\net6.0\bubble-sort.AssemblyInfo.cs
+D:\Programowanie Front End\GitV2\CSharp-exercises\bubble-sort\obj\Debug\net6.0\bubble-sort.csproj.CoreCompileInputs.cache
+D:\Programowanie Front End\GitV2\CSharp-exercises\bubble-sort\bin\Debug\net6.0\bubble-sort.exe
+D:\Programowanie Front End\GitV2\CSharp-exercises\bubble-sort\bin\Debug\net6.0\bubble-sort.deps.json
+D:\Programowanie Front End\GitV2\CSharp-exercises\bubble-sort\bin\Debug\net6.0\bubble-sort.runtimeconfig.json
+D:\Programowanie Front End\GitV2\CSharp-exercises\bubble-sort\bin\Debug\net6.0\bubble-sort.dll
+D:\Programowanie Front End\GitV2\CSharp-exercises\bubble-sort\bin\Debug\net6.0\bubble-sort.pdb
+D:\Programowanie Front End\GitV2\CSharp-exercises\bubble-sort\obj\Debug\net6.0\bubble-sort.dll
+D:\Programowanie Front End\GitV2\CSharp-exercises\bubble-sort\obj\Debug\net6.0\refint\bubble-sort.dll
+D:\Programowanie Front End\GitV2\CSharp-exercises\bubble-sort\obj\Debug\net6.0\bubble-sort.pdb
+D:\Programowanie Front End\GitV2\CSharp-exercises\bubble-sort\obj\Debug\net6.0\bubble-sort.genruntimeconfig.cache
+D:\Programowanie Front End\GitV2\CSharp-exercises\bubble-sort\obj\Debug\net6.0\ref\bubble-sort.dll
