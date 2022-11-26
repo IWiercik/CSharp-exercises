@@ -1,0 +1,15 @@
+F:\Programowanie\Github\C#-exercises\Conversions\[X]_To_Bin\Dec_To_Bin\obj\Debug\net7.0\Dec_To_Bin.csproj.AssemblyReference.cache
+F:\Programowanie\Github\C#-exercises\Conversions\[X]_To_Bin\Dec_To_Bin\obj\Debug\net7.0\Dec_To_Bin.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programowanie\Github\C#-exercises\Conversions\[X]_To_Bin\Dec_To_Bin\obj\Debug\net7.0\Dec_To_Bin.AssemblyInfoInputs.cache
+F:\Programowanie\Github\C#-exercises\Conversions\[X]_To_Bin\Dec_To_Bin\obj\Debug\net7.0\Dec_To_Bin.AssemblyInfo.cs
+F:\Programowanie\Github\C#-exercises\Conversions\[X]_To_Bin\Dec_To_Bin\obj\Debug\net7.0\Dec_To_Bin.csproj.CoreCompileInputs.cache
+F:\Programowanie\Github\C#-exercises\Conversions\[X]_To_Bin\Dec_To_Bin\bin\Debug\net7.0\Dec_To_Bin.exe
+F:\Programowanie\Github\C#-exercises\Conversions\[X]_To_Bin\Dec_To_Bin\bin\Debug\net7.0\Dec_To_Bin.deps.json
+F:\Programowanie\Github\C#-exercises\Conversions\[X]_To_Bin\Dec_To_Bin\bin\Debug\net7.0\Dec_To_Bin.runtimeconfig.json
+F:\Programowanie\Github\C#-exercises\Conversions\[X]_To_Bin\Dec_To_Bin\bin\Debug\net7.0\Dec_To_Bin.dll
+F:\Programowanie\Github\C#-exercises\Conversions\[X]_To_Bin\Dec_To_Bin\bin\Debug\net7.0\Dec_To_Bin.pdb
+F:\Programowanie\Github\C#-exercises\Conversions\[X]_To_Bin\Dec_To_Bin\obj\Debug\net7.0\Dec_To_Bin.dll
+F:\Programowanie\Github\C#-exercises\Conversions\[X]_To_Bin\Dec_To_Bin\obj\Debug\net7.0\refint\Dec_To_Bin.dll
+F:\Programowanie\Github\C#-exercises\Conversions\[X]_To_Bin\Dec_To_Bin\obj\Debug\net7.0\Dec_To_Bin.pdb
+F:\Programowanie\Github\C#-exercises\Conversions\[X]_To_Bin\Dec_To_Bin\obj\Debug\net7.0\Dec_To_Bin.genruntimeconfig.cache
+F:\Programowanie\Github\C#-exercises\Conversions\[X]_To_Bin\Dec_To_Bin\obj\Debug\net7.0\ref\Dec_To_Bin.dll
