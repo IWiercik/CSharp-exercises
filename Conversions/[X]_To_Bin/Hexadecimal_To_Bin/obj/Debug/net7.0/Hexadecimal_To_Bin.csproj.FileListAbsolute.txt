@@ -1,0 +1,5 @@
+F:\Programowanie\Github\C#-exercises\Conversions\[X]_To_Bin\Hexadecimal_To_Bin\obj\Debug\net7.0\Hexadecimal_To_Bin.csproj.AssemblyReference.cache
+F:\Programowanie\Github\C#-exercises\Conversions\[X]_To_Bin\Hexadecimal_To_Bin\obj\Debug\net7.0\Hexadecimal_To_Bin.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programowanie\Github\C#-exercises\Conversions\[X]_To_Bin\Hexadecimal_To_Bin\obj\Debug\net7.0\Hexadecimal_To_Bin.AssemblyInfoInputs.cache
+F:\Programowanie\Github\C#-exercises\Conversions\[X]_To_Bin\Hexadecimal_To_Bin\obj\Debug\net7.0\Hexadecimal_To_Bin.AssemblyInfo.cs
+F:\Programowanie\Github\C#-exercises\Conversions\[X]_To_Bin\Hexadecimal_To_Bin\obj\Debug\net7.0\Hexadecimal_To_Bin.csproj.CoreCompileInputs.cache
