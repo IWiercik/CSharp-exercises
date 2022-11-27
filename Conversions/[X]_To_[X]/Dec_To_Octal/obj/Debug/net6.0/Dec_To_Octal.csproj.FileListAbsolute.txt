@@ -1,0 +1,15 @@
+D:\Github\C#-exercises\Conversions\[X]_To_[X]\Dec_To_Octal\bin\Debug\net6.0\Dec_To_Octal.exe
+D:\Github\C#-exercises\Conversions\[X]_To_[X]\Dec_To_Octal\bin\Debug\net6.0\Dec_To_Octal.deps.json
+D:\Github\C#-exercises\Conversions\[X]_To_[X]\Dec_To_Octal\bin\Debug\net6.0\Dec_To_Octal.runtimeconfig.json
+D:\Github\C#-exercises\Conversions\[X]_To_[X]\Dec_To_Octal\bin\Debug\net6.0\Dec_To_Octal.dll
+D:\Github\C#-exercises\Conversions\[X]_To_[X]\Dec_To_Octal\bin\Debug\net6.0\Dec_To_Octal.pdb
+D:\Github\C#-exercises\Conversions\[X]_To_[X]\Dec_To_Octal\obj\Debug\net6.0\Dec_To_Octal.csproj.AssemblyReference.cache
+D:\Github\C#-exercises\Conversions\[X]_To_[X]\Dec_To_Octal\obj\Debug\net6.0\Dec_To_Octal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\C#-exercises\Conversions\[X]_To_[X]\Dec_To_Octal\obj\Debug\net6.0\Dec_To_Octal.AssemblyInfoInputs.cache
+D:\Github\C#-exercises\Conversions\[X]_To_[X]\Dec_To_Octal\obj\Debug\net6.0\Dec_To_Octal.AssemblyInfo.cs
+D:\Github\C#-exercises\Conversions\[X]_To_[X]\Dec_To_Octal\obj\Debug\net6.0\Dec_To_Octal.csproj.CoreCompileInputs.cache
+D:\Github\C#-exercises\Conversions\[X]_To_[X]\Dec_To_Octal\obj\Debug\net6.0\Dec_To_Octal.dll
+D:\Github\C#-exercises\Conversions\[X]_To_[X]\Dec_To_Octal\obj\Debug\net6.0\refint\Dec_To_Octal.dll
+D:\Github\C#-exercises\Conversions\[X]_To_[X]\Dec_To_Octal\obj\Debug\net6.0\Dec_To_Octal.pdb
+D:\Github\C#-exercises\Conversions\[X]_To_[X]\Dec_To_Octal\obj\Debug\net6.0\Dec_To_Octal.genruntimeconfig.cache
+D:\Github\C#-exercises\Conversions\[X]_To_[X]\Dec_To_Octal\obj\Debug\net6.0\ref\Dec_To_Octal.dll
