@@ -1,0 +1,15 @@
+F:\Programowanie\Github\C#-exercises\Conversions\Bin_To_[X]\Bin_To_Hex\bin\Debug\net7.0\Bin_To_Hex.exe
+F:\Programowanie\Github\C#-exercises\Conversions\Bin_To_[X]\Bin_To_Hex\bin\Debug\net7.0\Bin_To_Hex.deps.json
+F:\Programowanie\Github\C#-exercises\Conversions\Bin_To_[X]\Bin_To_Hex\bin\Debug\net7.0\Bin_To_Hex.runtimeconfig.json
+F:\Programowanie\Github\C#-exercises\Conversions\Bin_To_[X]\Bin_To_Hex\bin\Debug\net7.0\Bin_To_Hex.dll
+F:\Programowanie\Github\C#-exercises\Conversions\Bin_To_[X]\Bin_To_Hex\bin\Debug\net7.0\Bin_To_Hex.pdb
+F:\Programowanie\Github\C#-exercises\Conversions\Bin_To_[X]\Bin_To_Hex\obj\Debug\net7.0\Bin_To_Hex.csproj.AssemblyReference.cache
+F:\Programowanie\Github\C#-exercises\Conversions\Bin_To_[X]\Bin_To_Hex\obj\Debug\net7.0\Bin_To_Hex.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programowanie\Github\C#-exercises\Conversions\Bin_To_[X]\Bin_To_Hex\obj\Debug\net7.0\Bin_To_Hex.AssemblyInfoInputs.cache
+F:\Programowanie\Github\C#-exercises\Conversions\Bin_To_[X]\Bin_To_Hex\obj\Debug\net7.0\Bin_To_Hex.AssemblyInfo.cs
+F:\Programowanie\Github\C#-exercises\Conversions\Bin_To_[X]\Bin_To_Hex\obj\Debug\net7.0\Bin_To_Hex.csproj.CoreCompileInputs.cache
+F:\Programowanie\Github\C#-exercises\Conversions\Bin_To_[X]\Bin_To_Hex\obj\Debug\net7.0\Bin_To_Hex.dll
+F:\Programowanie\Github\C#-exercises\Conversions\Bin_To_[X]\Bin_To_Hex\obj\Debug\net7.0\refint\Bin_To_Hex.dll
+F:\Programowanie\Github\C#-exercises\Conversions\Bin_To_[X]\Bin_To_Hex\obj\Debug\net7.0\Bin_To_Hex.pdb
+F:\Programowanie\Github\C#-exercises\Conversions\Bin_To_[X]\Bin_To_Hex\obj\Debug\net7.0\Bin_To_Hex.genruntimeconfig.cache
+F:\Programowanie\Github\C#-exercises\Conversions\Bin_To_[X]\Bin_To_Hex\obj\Debug\net7.0\ref\Bin_To_Hex.dll

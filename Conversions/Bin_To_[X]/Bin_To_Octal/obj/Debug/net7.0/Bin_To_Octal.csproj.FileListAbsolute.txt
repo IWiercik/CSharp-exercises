@@ -1,0 +1,15 @@
+F:\Programowanie\Github\C#-exercises\Conversions\Bin_To_[X]\Bin_To_Octal\bin\Debug\net7.0\Bin_To_Octal.exe
+F:\Programowanie\Github\C#-exercises\Conversions\Bin_To_[X]\Bin_To_Octal\bin\Debug\net7.0\Bin_To_Octal.deps.json
+F:\Programowanie\Github\C#-exercises\Conversions\Bin_To_[X]\Bin_To_Octal\bin\Debug\net7.0\Bin_To_Octal.runtimeconfig.json
+F:\Programowanie\Github\C#-exercises\Conversions\Bin_To_[X]\Bin_To_Octal\bin\Debug\net7.0\Bin_To_Octal.dll
+F:\Programowanie\Github\C#-exercises\Conversions\Bin_To_[X]\Bin_To_Octal\bin\Debug\net7.0\Bin_To_Octal.pdb
+F:\Programowanie\Github\C#-exercises\Conversions\Bin_To_[X]\Bin_To_Octal\obj\Debug\net7.0\Bin_To_Octal.csproj.AssemblyReference.cache
+F:\Programowanie\Github\C#-exercises\Conversions\Bin_To_[X]\Bin_To_Octal\obj\Debug\net7.0\Bin_To_Octal.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programowanie\Github\C#-exercises\Conversions\Bin_To_[X]\Bin_To_Octal\obj\Debug\net7.0\Bin_To_Octal.AssemblyInfoInputs.cache
+F:\Programowanie\Github\C#-exercises\Conversions\Bin_To_[X]\Bin_To_Octal\obj\Debug\net7.0\Bin_To_Octal.AssemblyInfo.cs
+F:\Programowanie\Github\C#-exercises\Conversions\Bin_To_[X]\Bin_To_Octal\obj\Debug\net7.0\Bin_To_Octal.csproj.CoreCompileInputs.cache
+F:\Programowanie\Github\C#-exercises\Conversions\Bin_To_[X]\Bin_To_Octal\obj\Debug\net7.0\Bin_To_Octal.dll
+F:\Programowanie\Github\C#-exercises\Conversions\Bin_To_[X]\Bin_To_Octal\obj\Debug\net7.0\refint\Bin_To_Octal.dll
+F:\Programowanie\Github\C#-exercises\Conversions\Bin_To_[X]\Bin_To_Octal\obj\Debug\net7.0\Bin_To_Octal.pdb
+F:\Programowanie\Github\C#-exercises\Conversions\Bin_To_[X]\Bin_To_Octal\obj\Debug\net7.0\Bin_To_Octal.genruntimeconfig.cache
+F:\Programowanie\Github\C#-exercises\Conversions\Bin_To_[X]\Bin_To_Octal\obj\Debug\net7.0\ref\Bin_To_Octal.dll
