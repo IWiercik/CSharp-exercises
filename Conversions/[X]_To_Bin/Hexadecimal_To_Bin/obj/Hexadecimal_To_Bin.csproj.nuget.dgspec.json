@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Programowanie\\Github\\C#-exercises\\Conversions\\[X]_To_Bin\\Hexadecimal_To_Bin\\Hexadecimal_To_Bin.csproj": {}
+    "D:\\Github\\C#-exercises\\Conversions\\[X]_To_Bin\\Hexadecimal_To_Bin\\Hexadecimal_To_Bin.csproj": {}
   },
   "projects": {
-    "F:\\Programowanie\\Github\\C#-exercises\\Conversions\\[X]_To_Bin\\Hexadecimal_To_Bin\\Hexadecimal_To_Bin.csproj": {
+    "D:\\Github\\C#-exercises\\Conversions\\[X]_To_Bin\\Hexadecimal_To_Bin\\Hexadecimal_To_Bin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Programowanie\\Github\\C#-exercises\\Conversions\\[X]_To_Bin\\Hexadecimal_To_Bin\\Hexadecimal_To_Bin.csproj",
+        "projectUniqueName": "D:\\Github\\C#-exercises\\Conversions\\[X]_To_Bin\\Hexadecimal_To_Bin\\Hexadecimal_To_Bin.csproj",
         "projectName": "Hexadecimal_To_Bin",
-        "projectPath": "F:\\Programowanie\\Github\\C#-exercises\\Conversions\\[X]_To_Bin\\Hexadecimal_To_Bin\\Hexadecimal_To_Bin.csproj",
-        "packagesPath": "C:\\Users\\Przemek\\.nuget\\packages\\",
-        "outputPath": "F:\\Programowanie\\Github\\C#-exercises\\Conversions\\[X]_To_Bin\\Hexadecimal_To_Bin\\obj\\",
+        "projectPath": "D:\\Github\\C#-exercises\\Conversions\\[X]_To_Bin\\Hexadecimal_To_Bin\\Hexadecimal_To_Bin.csproj",
+        "packagesPath": "C:\\Users\\Przemysław\\.nuget\\packages\\",
+        "outputPath": "D:\\Github\\C#-exercises\\Conversions\\[X]_To_Bin\\Hexadecimal_To_Bin\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "F:\\Visual studio\\Tools\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Przemek\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Przemysław\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
