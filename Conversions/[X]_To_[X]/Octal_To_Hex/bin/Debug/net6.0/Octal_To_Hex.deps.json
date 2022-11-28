@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Octal_To_Hex/1.0.0": {
+        "runtime": {
+          "Octal_To_Hex.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Octal_To_Hex/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
