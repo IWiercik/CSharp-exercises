@@ -1,0 +1,15 @@
+D:\Github\C#-exercises\Calc\bin\Debug\net7.0\Calc.exe
+D:\Github\C#-exercises\Calc\bin\Debug\net7.0\Calc.deps.json
+D:\Github\C#-exercises\Calc\bin\Debug\net7.0\Calc.runtimeconfig.json
+D:\Github\C#-exercises\Calc\bin\Debug\net7.0\Calc.dll
+D:\Github\C#-exercises\Calc\bin\Debug\net7.0\Calc.pdb
+D:\Github\C#-exercises\Calc\obj\Debug\net7.0\Calc.csproj.AssemblyReference.cache
+D:\Github\C#-exercises\Calc\obj\Debug\net7.0\Calc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\C#-exercises\Calc\obj\Debug\net7.0\Calc.AssemblyInfoInputs.cache
+D:\Github\C#-exercises\Calc\obj\Debug\net7.0\Calc.AssemblyInfo.cs
+D:\Github\C#-exercises\Calc\obj\Debug\net7.0\Calc.csproj.CoreCompileInputs.cache
+D:\Github\C#-exercises\Calc\obj\Debug\net7.0\Calc.dll
+D:\Github\C#-exercises\Calc\obj\Debug\net7.0\refint\Calc.dll
+D:\Github\C#-exercises\Calc\obj\Debug\net7.0\Calc.pdb
+D:\Github\C#-exercises\Calc\obj\Debug\net7.0\Calc.genruntimeconfig.cache
+D:\Github\C#-exercises\Calc\obj\Debug\net7.0\ref\Calc.dll
