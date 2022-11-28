@@ -1,0 +1,15 @@
+D:\Github\C#-exercises\Conversions\[X]_To_Bin\Oct_To_Bin\obj\Debug\net7.0\Oct_To_Bin.csproj.AssemblyReference.cache
+D:\Github\C#-exercises\Conversions\[X]_To_Bin\Oct_To_Bin\obj\Debug\net7.0\Oct_To_Bin.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\C#-exercises\Conversions\[X]_To_Bin\Oct_To_Bin\obj\Debug\net7.0\Oct_To_Bin.AssemblyInfoInputs.cache
+D:\Github\C#-exercises\Conversions\[X]_To_Bin\Oct_To_Bin\obj\Debug\net7.0\Oct_To_Bin.AssemblyInfo.cs
+D:\Github\C#-exercises\Conversions\[X]_To_Bin\Oct_To_Bin\obj\Debug\net7.0\Oct_To_Bin.csproj.CoreCompileInputs.cache
+D:\Github\C#-exercises\Conversions\[X]_To_Bin\Oct_To_Bin\bin\Debug\net7.0\Oct_To_Bin.exe
+D:\Github\C#-exercises\Conversions\[X]_To_Bin\Oct_To_Bin\bin\Debug\net7.0\Oct_To_Bin.deps.json
+D:\Github\C#-exercises\Conversions\[X]_To_Bin\Oct_To_Bin\bin\Debug\net7.0\Oct_To_Bin.runtimeconfig.json
+D:\Github\C#-exercises\Conversions\[X]_To_Bin\Oct_To_Bin\bin\Debug\net7.0\Oct_To_Bin.dll
+D:\Github\C#-exercises\Conversions\[X]_To_Bin\Oct_To_Bin\bin\Debug\net7.0\Oct_To_Bin.pdb
+D:\Github\C#-exercises\Conversions\[X]_To_Bin\Oct_To_Bin\obj\Debug\net7.0\Oct_To_Bin.dll
+D:\Github\C#-exercises\Conversions\[X]_To_Bin\Oct_To_Bin\obj\Debug\net7.0\refint\Oct_To_Bin.dll
+D:\Github\C#-exercises\Conversions\[X]_To_Bin\Oct_To_Bin\obj\Debug\net7.0\Oct_To_Bin.pdb
+D:\Github\C#-exercises\Conversions\[X]_To_Bin\Oct_To_Bin\obj\Debug\net7.0\Oct_To_Bin.genruntimeconfig.cache
+D:\Github\C#-exercises\Conversions\[X]_To_Bin\Oct_To_Bin\obj\Debug\net7.0\ref\Oct_To_Bin.dll
