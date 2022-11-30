@@ -6,7 +6,7 @@ namespace MyApp
     {
         static void Main(string[] args)
         {
-            int resultOfProgram = 0;
+            decimal resultOfProgram = 0;
             bool isProgramOver = false;
             while (!isProgramOver)
             {
@@ -49,7 +49,7 @@ namespace MyApp
                         break;
                     case '/':
                     case ':':
-                        resultOfProgram = firstNum / secondNum;
+                        resultOfProgram = (decimal)firstNum/secondNum;
                         break;
                     case '*':
                     case 'x':
