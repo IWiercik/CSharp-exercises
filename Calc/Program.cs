@@ -6,6 +6,7 @@ namespace MyApp
     {
         static void Main(string[] args)
         {
+            int resultOfProgram = 0;
             bool isProgramOver = false;
             while (!isProgramOver)
             {
@@ -31,14 +32,42 @@ namespace MyApp
                 string thirdInput = "";
                 string availableOperations = "+/-:*x";
                 Console.WriteLine("Podaj operacje matematyczna");
-                thirdInput = Console.ReadLine();
+                thirdInput = Console.ReadLine().ToLower();
                 while (!availableOperations.Contains(thirdInput))
                 {
                     Console.WriteLine("Podaj poprawna operacje");
-                    thirdInput = Console.ReadLine();
+                    thirdInput = Console.ReadLine().ToLower();
                 }
-                
-
+                operation = Convert.ToChar(thirdInput);
+                switch (operation)
+                {
+                    case '+':
+                        resultOfProgram = firstNum + secondNum;
+                        break;
+                    case '-':
+                        resultOfProgram = firstNum - secondNum;
+                        break;
+                    case '/':
+                    case ':':
+                        resultOfProgram = firstNum / secondNum;
+                        break;
+                    case '*':
+                    case 'x':
+                        resultOfProgram = firstNum * secondNum;
+                        break;
+                    default:
+                        Console.WriteLine("Something went wrong");
+                        break;
+                }
+                Console.WriteLine("--------WYNIK PROGRAMU--------");
+                Console.WriteLine($"Pierwsza liczba:{firstNum}");
+                Console.WriteLine($"Druga liczba:{secondNum}");
+                Console.WriteLine($"Operacja:{operation}");
+                Console.WriteLine($"Wynik:{resultOfProgram}");
+                Console.WriteLine("-------------------------------");
+                Console.WriteLine("Jesli chcesz skonczyc wpisz 'KONIEC' w przeciwnym razie wpisz cokolwiek innego.");
+                string fourthInput = Console.ReadLine();
+                if (fourthInput == "KONIEC") isProgramOver = true;
             }
         }
     }
