@@ -1,0 +1,15 @@
+F:\Programowanie\Github\C#-exercises\multiple\obj\Debug\net7.0\multiple.csproj.AssemblyReference.cache
+F:\Programowanie\Github\C#-exercises\multiple\obj\Debug\net7.0\multiple.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programowanie\Github\C#-exercises\multiple\obj\Debug\net7.0\multiple.AssemblyInfoInputs.cache
+F:\Programowanie\Github\C#-exercises\multiple\obj\Debug\net7.0\multiple.AssemblyInfo.cs
+F:\Programowanie\Github\C#-exercises\multiple\obj\Debug\net7.0\multiple.csproj.CoreCompileInputs.cache
+F:\Programowanie\Github\C#-exercises\multiple\bin\Debug\net7.0\multiple.exe
+F:\Programowanie\Github\C#-exercises\multiple\bin\Debug\net7.0\multiple.deps.json
+F:\Programowanie\Github\C#-exercises\multiple\bin\Debug\net7.0\multiple.runtimeconfig.json
+F:\Programowanie\Github\C#-exercises\multiple\bin\Debug\net7.0\multiple.dll
+F:\Programowanie\Github\C#-exercises\multiple\bin\Debug\net7.0\multiple.pdb
+F:\Programowanie\Github\C#-exercises\multiple\obj\Debug\net7.0\multiple.dll
+F:\Programowanie\Github\C#-exercises\multiple\obj\Debug\net7.0\refint\multiple.dll
+F:\Programowanie\Github\C#-exercises\multiple\obj\Debug\net7.0\multiple.pdb
+F:\Programowanie\Github\C#-exercises\multiple\obj\Debug\net7.0\multiple.genruntimeconfig.cache
+F:\Programowanie\Github\C#-exercises\multiple\obj\Debug\net7.0\ref\multiple.dll
