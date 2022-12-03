@@ -1,0 +1,15 @@
+D:\Github\C#-exercises\isCorrectPesel\bin\Debug\net7.0\isCorrectPesel.exe
+D:\Github\C#-exercises\isCorrectPesel\bin\Debug\net7.0\isCorrectPesel.deps.json
+D:\Github\C#-exercises\isCorrectPesel\bin\Debug\net7.0\isCorrectPesel.runtimeconfig.json
+D:\Github\C#-exercises\isCorrectPesel\bin\Debug\net7.0\isCorrectPesel.dll
+D:\Github\C#-exercises\isCorrectPesel\bin\Debug\net7.0\isCorrectPesel.pdb
+D:\Github\C#-exercises\isCorrectPesel\obj\Debug\net7.0\isCorrectPesel.csproj.AssemblyReference.cache
+D:\Github\C#-exercises\isCorrectPesel\obj\Debug\net7.0\isCorrectPesel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\C#-exercises\isCorrectPesel\obj\Debug\net7.0\isCorrectPesel.AssemblyInfoInputs.cache
+D:\Github\C#-exercises\isCorrectPesel\obj\Debug\net7.0\isCorrectPesel.AssemblyInfo.cs
+D:\Github\C#-exercises\isCorrectPesel\obj\Debug\net7.0\isCorrectPesel.csproj.CoreCompileInputs.cache
+D:\Github\C#-exercises\isCorrectPesel\obj\Debug\net7.0\isCorrectPesel.dll
+D:\Github\C#-exercises\isCorrectPesel\obj\Debug\net7.0\refint\isCorrectPesel.dll
+D:\Github\C#-exercises\isCorrectPesel\obj\Debug\net7.0\isCorrectPesel.pdb
+D:\Github\C#-exercises\isCorrectPesel\obj\Debug\net7.0\isCorrectPesel.genruntimeconfig.cache
+D:\Github\C#-exercises\isCorrectPesel\obj\Debug\net7.0\ref\isCorrectPesel.dll
