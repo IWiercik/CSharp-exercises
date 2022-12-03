@@ -1,0 +1,15 @@
+D:\Github\C#-exercises\isPalindrom\bin\Debug\net7.0\isPalindrom.exe
+D:\Github\C#-exercises\isPalindrom\bin\Debug\net7.0\isPalindrom.deps.json
+D:\Github\C#-exercises\isPalindrom\bin\Debug\net7.0\isPalindrom.runtimeconfig.json
+D:\Github\C#-exercises\isPalindrom\bin\Debug\net7.0\isPalindrom.dll
+D:\Github\C#-exercises\isPalindrom\bin\Debug\net7.0\isPalindrom.pdb
+D:\Github\C#-exercises\isPalindrom\obj\Debug\net7.0\isPalindrom.csproj.AssemblyReference.cache
+D:\Github\C#-exercises\isPalindrom\obj\Debug\net7.0\isPalindrom.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\C#-exercises\isPalindrom\obj\Debug\net7.0\isPalindrom.AssemblyInfoInputs.cache
+D:\Github\C#-exercises\isPalindrom\obj\Debug\net7.0\isPalindrom.AssemblyInfo.cs
+D:\Github\C#-exercises\isPalindrom\obj\Debug\net7.0\isPalindrom.csproj.CoreCompileInputs.cache
+D:\Github\C#-exercises\isPalindrom\obj\Debug\net7.0\isPalindrom.dll
+D:\Github\C#-exercises\isPalindrom\obj\Debug\net7.0\refint\isPalindrom.dll
+D:\Github\C#-exercises\isPalindrom\obj\Debug\net7.0\isPalindrom.pdb
+D:\Github\C#-exercises\isPalindrom\obj\Debug\net7.0\isPalindrom.genruntimeconfig.cache
+D:\Github\C#-exercises\isPalindrom\obj\Debug\net7.0\ref\isPalindrom.dll
