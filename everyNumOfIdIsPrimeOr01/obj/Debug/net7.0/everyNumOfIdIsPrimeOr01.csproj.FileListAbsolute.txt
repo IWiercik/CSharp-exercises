@@ -1,0 +1,15 @@
+D:\Github\C#-exercises\everyNumOfIdIsPrimeOr01\bin\Debug\net7.0\everyNumOfIdIsPrimeOr01.exe
+D:\Github\C#-exercises\everyNumOfIdIsPrimeOr01\bin\Debug\net7.0\everyNumOfIdIsPrimeOr01.deps.json
+D:\Github\C#-exercises\everyNumOfIdIsPrimeOr01\bin\Debug\net7.0\everyNumOfIdIsPrimeOr01.runtimeconfig.json
+D:\Github\C#-exercises\everyNumOfIdIsPrimeOr01\bin\Debug\net7.0\everyNumOfIdIsPrimeOr01.dll
+D:\Github\C#-exercises\everyNumOfIdIsPrimeOr01\bin\Debug\net7.0\everyNumOfIdIsPrimeOr01.pdb
+D:\Github\C#-exercises\everyNumOfIdIsPrimeOr01\obj\Debug\net7.0\everyNumOfIdIsPrimeOr01.csproj.AssemblyReference.cache
+D:\Github\C#-exercises\everyNumOfIdIsPrimeOr01\obj\Debug\net7.0\everyNumOfIdIsPrimeOr01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\C#-exercises\everyNumOfIdIsPrimeOr01\obj\Debug\net7.0\everyNumOfIdIsPrimeOr01.AssemblyInfoInputs.cache
+D:\Github\C#-exercises\everyNumOfIdIsPrimeOr01\obj\Debug\net7.0\everyNumOfIdIsPrimeOr01.AssemblyInfo.cs
+D:\Github\C#-exercises\everyNumOfIdIsPrimeOr01\obj\Debug\net7.0\everyNumOfIdIsPrimeOr01.csproj.CoreCompileInputs.cache
+D:\Github\C#-exercises\everyNumOfIdIsPrimeOr01\obj\Debug\net7.0\everyNumOfIdIsPrimeOr01.dll
+D:\Github\C#-exercises\everyNumOfIdIsPrimeOr01\obj\Debug\net7.0\refint\everyNumOfIdIsPrimeOr01.dll
+D:\Github\C#-exercises\everyNumOfIdIsPrimeOr01\obj\Debug\net7.0\everyNumOfIdIsPrimeOr01.pdb
+D:\Github\C#-exercises\everyNumOfIdIsPrimeOr01\obj\Debug\net7.0\everyNumOfIdIsPrimeOr01.genruntimeconfig.cache
+D:\Github\C#-exercises\everyNumOfIdIsPrimeOr01\obj\Debug\net7.0\ref\everyNumOfIdIsPrimeOr01.dll
