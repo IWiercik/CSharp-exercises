@@ -1,0 +1,15 @@
+D:\Github\C#-exercises\highestSumIds\bin\Debug\net7.0\highestSumIds.exe
+D:\Github\C#-exercises\highestSumIds\bin\Debug\net7.0\highestSumIds.deps.json
+D:\Github\C#-exercises\highestSumIds\bin\Debug\net7.0\highestSumIds.runtimeconfig.json
+D:\Github\C#-exercises\highestSumIds\bin\Debug\net7.0\highestSumIds.dll
+D:\Github\C#-exercises\highestSumIds\bin\Debug\net7.0\highestSumIds.pdb
+D:\Github\C#-exercises\highestSumIds\obj\Debug\net7.0\highestSumIds.csproj.AssemblyReference.cache
+D:\Github\C#-exercises\highestSumIds\obj\Debug\net7.0\highestSumIds.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\C#-exercises\highestSumIds\obj\Debug\net7.0\highestSumIds.AssemblyInfoInputs.cache
+D:\Github\C#-exercises\highestSumIds\obj\Debug\net7.0\highestSumIds.AssemblyInfo.cs
+D:\Github\C#-exercises\highestSumIds\obj\Debug\net7.0\highestSumIds.csproj.CoreCompileInputs.cache
+D:\Github\C#-exercises\highestSumIds\obj\Debug\net7.0\highestSumIds.dll
+D:\Github\C#-exercises\highestSumIds\obj\Debug\net7.0\refint\highestSumIds.dll
+D:\Github\C#-exercises\highestSumIds\obj\Debug\net7.0\highestSumIds.pdb
+D:\Github\C#-exercises\highestSumIds\obj\Debug\net7.0\highestSumIds.genruntimeconfig.cache
+D:\Github\C#-exercises\highestSumIds\obj\Debug\net7.0\ref\highestSumIds.dll
